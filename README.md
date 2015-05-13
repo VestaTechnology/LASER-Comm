@@ -9,7 +9,7 @@ This project relies on __usart.h__ and __usart1async.h__ from the Common folder 
 
 [mer16]: https://github.com/VestaTechnology/Onboard_Mercury_16
 
-![](https://github.com/VestaTechnology/LASER-Comm/blob/master/schematic.png)
+![](https://github.com/VestaTechnology/LASER-Comm/blob/master/LASERschematic.png)
 
 This project would be fun to expand on and split the transmit and receive circuits so they each have their own Mercury 16.  I wonder how far you could send a signal.  Placing a magnifying glass in front of the receiving diode helps focus the beam for long range transmissions.  
 
